@@ -1,0 +1,53 @@
+div,p,header,h1,select{
+    text-align: center;
+}
+
+#datast{
+    margin-top: 20px;
+}
+
+img{
+    color:black;
+    border: solid;
+}
+
+#text{
+    background-color: lightgrey;
+    border:0
+}
+#select{
+    margin:auto;
+}
+select{
+    border:solid;
+    background-color: lightgrey;
+}
+
+h2{
+    border-bottom: solid;
+}
+/*Box regroupant chaque item*/
+#box{
+    background-color: lightgray;
+    display: flex;
+    margin-top: 30px;
+}
+    /*Classe pour chaque item*/
+    .item {
+        background-color: white;
+        border:solid;
+        margin: auto;
+        padding:5px;
+    }
+/*Couleur de tous les titres*/
+.jour{
+    color:red;
+}
+.semaine{
+    color:blue;
+}
+
+/*------------TOP.PHP----------------*/
+td{
+    border-top: solid;
+}
