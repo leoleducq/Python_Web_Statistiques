@@ -8,8 +8,8 @@
 
     <body>
         <div id="menu">
-            <a href="../stats/">Accueil</a>
-            <a href="../stats/top.php">Classement</a>
+            <a href="index.php">Accueil</a>
+            <a href="top.php">Classement</a>
         </div>
 
 
