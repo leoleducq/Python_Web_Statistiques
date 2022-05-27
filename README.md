@@ -3,8 +3,13 @@
 Réalisation et affichage de statistiques depuis une base MongoDB.
 ### Pourquoi ?
 Ce code a été réalisé dans le but de voir les statistiques de nos stations : 
-* Combien d'avions elles ont captés sur des périodes glissante, dans l'heure, la journée et la semaine.
+* Combien d'avions elles ont captés dans l'heure, la journée et la semaine.
 * Classement des stations ayant captés le plus d'avions.
+
+Les données sont :
+* Sur des périodes glissantes.
+* En temps réel.
+* Actualisées toutes les 15 minutes.
 
 Cela nous permet donc de voir lorsqu'une station tombe en panne ou quelles sont les stations les plus importantes.
 
