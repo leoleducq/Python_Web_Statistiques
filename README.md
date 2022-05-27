@@ -24,21 +24,20 @@ PYTHON
 WEB  
 
 <table>
-  <thead>
-    <tr>
-    <th>Python</th>
-    <th>Web</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-    <td>okok/td>
-    <td>okok/td>
-    <td>okok/td>
-    <td>okok/td>
-    <td>okok/td>
-    <td>okok/td>
-    </tr>
-  </tbody>
-  </tr>
+    <thead>
+        <tr>
+            <th colspan="3">Python</th>
+            <th colspan="3">Web</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>The table body</td>
+            <td>with two columns</td>
+            <td>dzdzdz</td>
+            <td>dzdzdz</td>
+            <td>dzdzdz</td>
+            <td>dzdzdz</td>
+        </tr>
+    </tbody>
 </table>
