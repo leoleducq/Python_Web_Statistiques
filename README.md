@@ -15,29 +15,27 @@ Grâce à cette solution nous avons :
 * Un intérêt pour les collaborateurs gérant une station.
 
 ### Version
-PYTHON 
-
-| MySQL        | MariaDB           | PHP  |
-| ------------- |:-------------:| -----:|
-| 15.1      | 10.5.15 | 8.1.5 |
-
-WEB  
-
 <table>
     <thead>
         <tr>
-            <th colspan="3">Python</th>
-            <th colspan="3">Web</th>
+            <th colspan="3">Script</th>
+            <th colspan="1">Web</th>
+            <th colspan="1">Stockage</th>
         </tr>
     </thead>
     <tbody>
         <tr>
-            <td>The table body</td>
-            <td>with two columns</td>
-            <td>dzdzdz</td>
-            <td>dzdzdz</td>
-            <td>dzdzdz</td>
-            <td>dzdzdz</td>
+            <td>Python</td>
+            <td>PyMongo</td>
+            <td>Matplotlib</td>
+            <td>PHP</td>
+            <td>MongoDB</td>
         </tr>
+        <tr>
+            <td>3.9</td>
+            <td>4.0.1</td>
+            <td>3.5.2</td>
+            <td>8.1.5</td>
+            <td>4.2.18</td>
     </tbody>
 </table>
