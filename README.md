@@ -42,5 +42,6 @@ Grâce à cette solution nous avons :
             <td>3.5.2</td>
             <td>8.1.5</td>
             <td>4.2.18</td>
+        </tr>
     </tbody>
 </table>
